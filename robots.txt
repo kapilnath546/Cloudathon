@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /cdn-cgi/images/trace/
+Allow: /cdn-cgi/imagedelivery/
+Disallow: /cdn-cgi/
+Sitemap: https://rona-gw8j6v7zd2.figweb.site/sitemap.xml
